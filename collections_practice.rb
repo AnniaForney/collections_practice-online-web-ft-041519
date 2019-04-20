@@ -10,12 +10,22 @@ def sort_array_desc(array)
 end 
 
 def sort_array_char_count(string)
-  char string  
+  char string 
+  string[1]
+  string[2]
+  string[3]
+  string[4]
+  string[5]
   sort_array_char_count.sort 
   return sort_array_char_count
 end 
 
-def swap_elements
+def swap_elements(array)
+  elements = [a, b, c, d, e]
+  swap_elements_from_to(["a", "b", "c"],1,2,3)
+  
+  swap_elements_from_to (["a", "b", "c"],2,4,3)
+  return swap_elements
 end 
 
 def reverse_array 
