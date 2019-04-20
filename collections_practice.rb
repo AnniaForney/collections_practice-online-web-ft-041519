@@ -3,7 +3,10 @@ def sort_array_asc(array)
   return sort_array_asc
 end 
 
-def sort_array_desc 
+def sort_array_desc(array)
+  sort_array_desc index = [5, 4, 3, 2, 1,]
+  array.sort
+  return sort_array_desc
 end 
 
 def sort_array_char_count
