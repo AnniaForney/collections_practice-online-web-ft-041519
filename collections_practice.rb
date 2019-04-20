@@ -9,7 +9,10 @@ def sort_array_desc(array)
   return sort_array_desc
 end 
 
-def sort_array_char_count
+def sort_array_char_count(string)
+   
+  sort_array_char_count.sort 
+  return sort_array_char_count
 end 
 
 def swap_elements
