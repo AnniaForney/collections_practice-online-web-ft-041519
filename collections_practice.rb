@@ -10,7 +10,7 @@ def sort_array_desc(array)
 end 
 
 def sort_array_char_count(string)
-   
+  char string  
   sort_array_char_count.sort 
   return sort_array_char_count
 end 
